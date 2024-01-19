@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="square">
+        <item name="cornerSize">10%</item>
+    </style>
+
+
+    <style name="round">
+        <item name="cornerSize">80%</item>
+    </style>
+
+    <style name="CustomSeekBar" parent="Widget.AppCompat.SeekBar">
+        <item name="android:progressDrawable">@drawable/custom_seekbar_progress</item>
+    </style>
+
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="searchIcon">@drawable/baseline_search_24</item>
+        <item name="android:closeIcon">@drawable/baseline_close_24</item>
+        <item name="queryBackground">@android:color/transparent</item>
+        <item name="queryHint">"search"</item>
+        <item name="iconifiedByDefault">false</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:editTextColor">@color/white</item>
+        <item name="android:background">@drawable/searchviewshape</item>
+    </style>
+
+
+</resources>
