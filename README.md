@@ -1,6 +1,6 @@
 # AnimeTone: Online Anime Music Player with Ringtone and Notification Tone Setter
 
-![AnimeTone Logo](https://ibb.co/phWS9dB)
+![AnimeTone Logo](https://i.postimg.cc/7hTBnS8T/Whats-App-Image-2024-01-19-at-11-58-08-933c6417.jpg)
 
 ## Description
 
